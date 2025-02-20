@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="200" viewBox="0 0 800 200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- ELIDA -->
+    <text x="50" y="100" font-family="Arial" font-size="100" font-weight="bold" letter-spacing="10">
+      ÉLIDA
+    </text>
+    
+    <!-- SOLIARIUMAI with increased spacing from ELIDA -->
+    <text x="50" y="180" font-family="Arial" font-size="60" letter-spacing="5">
+      SOLIARIUMAI
+    </text>
+  </g>
+</svg>
