@@ -103,11 +103,11 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* ✅ Google Maps Section with API Key */}
+        {/* ✅ Updated Google Maps Section */}
         <div className="relative w-full h-[400px] rounded-xl overflow-hidden shadow-lg bg-gray-800">
           <iframe
             className="absolute top-0 left-0 w-full h-full"
-            src={`https://www.google.com/maps/embed/v1/place?key=AIzaSyBn7Y_mQTLtS0PqyyevggtfNW6CbbGHlfw&q=Vilniaus+g.+23A,+Panevezys`}
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7483.480147973988!2d24.371232!3d55.727239!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e6321421e889d5%3A0x5e966abcd248574d!2zVmlsbmlhdXMgZy4gMjNBLCBQYW5ldsSXxb55cywgMzUyMDMgUGFuZXbEl8W-aW8gbS4gc2F2Lg!5e1!3m2!1sen!2slt!4v1740079022494!5m2!1sen!2slt"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
